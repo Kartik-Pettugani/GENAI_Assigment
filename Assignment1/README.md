@@ -7,7 +7,7 @@ Persona-based AI chatbot with three personalities:
 
 ## Live Demo
 
-- Deployed URL: TODO
+- Deployed URL: <PASTE_YOUR_PUBLIC_URL_HERE>
 
 ## Tech Stack
 
@@ -65,7 +65,7 @@ Then redeploy.
 
 ## Screenshots
 
-Add screenshots here before submitting:
+Add screenshots here before submitting (recommended: put images in `public/screenshots/` and link them below):
 - Persona switcher + header
 - Chat with chips
 - Typing indicator

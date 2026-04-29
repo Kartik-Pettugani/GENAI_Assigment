@@ -7,7 +7,7 @@ Persona-based AI chatbot with three personalities:
 
 ## Live Demo
 
-- Deployed URL: <PASTE_YOUR_PUBLIC_URL_HERE>
+- Deployed URL: https://genai-assigment-uytr.vercel.app/
 
 ## Tech Stack
 
@@ -64,6 +64,10 @@ Then redeploy.
 - See `reflection.md` for the 300–500 word reflection
 
 ## Screenshots
+![Persona switcher](public/screenshots/persona-switcher.png)
+![Suggestion chips](public/screenshots/chips.png)
+![Typing indicator](public/screenshots/typing.png)
+![Error state](public/screenshots/error.png)
 
 Add screenshots here before submitting (recommended: put images in `public/screenshots/` and link them below):
 - Persona switcher + header
